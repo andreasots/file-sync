@@ -1,0 +1,11 @@
+[package]
+name = "file-sync"
+version = "0.1.0"
+license = "Apache-2.0"
+authors = ["Andreas Ots <andreasots@gmail.com>"]
+
+[dependencies]
+clap = "2.9.2"
+notify = "2.6.2"
+winapi = "0.2.7"
+kernel32-sys = "0.2.2"
